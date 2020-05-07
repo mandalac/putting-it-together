@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/putting-it-together/static/css/main.b7fdc21f.chunk.css",
+    "main.js": "/putting-it-together/static/js/main.1df18654.chunk.js",
+    "main.js.map": "/putting-it-together/static/js/main.1df18654.chunk.js.map",
+    "runtime-main.js": "/putting-it-together/static/js/runtime-main.197435dd.js",
+    "runtime-main.js.map": "/putting-it-together/static/js/runtime-main.197435dd.js.map",
+    "static/js/2.2986a7c2.chunk.js": "/putting-it-together/static/js/2.2986a7c2.chunk.js",
+    "static/js/2.2986a7c2.chunk.js.map": "/putting-it-together/static/js/2.2986a7c2.chunk.js.map",
+    "index.html": "/putting-it-together/index.html",
+    "precache-manifest.6008cc30f9d4283e7ac0e3627afee8ac.js": "/putting-it-together/precache-manifest.6008cc30f9d4283e7ac0e3627afee8ac.js",
+    "service-worker.js": "/putting-it-together/service-worker.js",
+    "static/css/main.b7fdc21f.chunk.css.map": "/putting-it-together/static/css/main.b7fdc21f.chunk.css.map",
+    "static/js/2.2986a7c2.chunk.js.LICENSE.txt": "/putting-it-together/static/js/2.2986a7c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.197435dd.js",
+    "static/js/2.2986a7c2.chunk.js",
+    "static/css/main.b7fdc21f.chunk.css",
+    "static/js/main.1df18654.chunk.js"
+  ]
+}
